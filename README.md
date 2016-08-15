@@ -23,6 +23,7 @@ pip install -r requirements.txt
 Documentation
 --------------
 
+### aftic-conf-app
 Adding a page to main menu:
 * Go to https://enigmatic-depths-30457.herokuapp.com/admin/sitetree/tree/1/change/
 * Click "Add Site Tree Item +"
@@ -32,6 +33,9 @@ Adding a page to main menu:
 * Check the "URL as Pattern" box.
 * Click "Save"
 * Go to homepage ( https://enigmatic-depths-30457.herokuapp.com/ ) and click on page to add content to it.
+
+### PinaxCon
+Read the docs: https://symposion.readthedocs.io/en/latest/index.html
 
 Contribute
 ----------------
