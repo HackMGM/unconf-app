@@ -33,6 +33,15 @@ Adding a page to main menu:
 * Click "Save"
 * Go to homepage ( https://enigmatic-depths-30457.herokuapp.com/ ) and click on page to add content to it.
 
+Adding a page to main menu:
+* Go to https://enigmatic-depths-30457.herokuapp.com/admin/sitetree/tree/1/change/
+* Click "Add Site Tree Item +"
+* Enter a Title.
+* In "URL:" enter something like this: pages_page "MY_NEW_PAGE/"
+* Under "Additional Settings" click "Show".
+* Check the "URL as Pattern" box.
+* Click "Save"
+* Go to homepage ( https://enigmatic-depths-30457.herokuapp.com/ ) and click on page to add content to it.
 
 Contribute
 ----------------
